@@ -7,7 +7,7 @@
     },
     "backend": {
       "root": "backend",
-      "runtime": "nodejs20.x",
+      "framework": "other",
       "entrypoint": "api/index.js",
       "routePrefix": "/api"
     }
