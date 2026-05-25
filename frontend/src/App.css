@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+.container {
+  width: 400px;
+  margin: auto;
+  margin-top: 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  background: white;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  box-sizing: border-box;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  border: none;
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+}
+
+.box {
+  background: white;
+  padding: 15px;
+  margin-top: 15px;
+  border-radius: 5px;
+}
